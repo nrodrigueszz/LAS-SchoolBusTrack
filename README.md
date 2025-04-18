@@ -1,6 +1,7 @@
 # LAS-SchoolBusTrack
 
 EN: Custom school bus tracking system for LAS - built to support fixed and temporary routes, QR code-based live location sharing, and secure management via Firebase and FlutterFlow.
+
 PT: Sistema de reastreamento personalizado de onibus escolares da LAS - com suporte a rotas fixas e temporarias, QR Code com localizacao em tempo real e gestao segura via Firebase e FlutterFlow. 
 
 ---
