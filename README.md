@@ -1,4 +1,4 @@
-# LAS-SchoolBusTrack
+# LAS - SchoolBusTrack
 
 EN: Custom school bus tracking system for LAS - built to support fixed and temporary routes, QR code-based live location sharing, and secure management via Firebase and FlutterFlow.
 
