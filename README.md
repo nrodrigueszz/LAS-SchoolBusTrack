@@ -14,7 +14,7 @@ LAS SchoolBusTrack is a modular and scalable tracking system for school vehicles
 
 **PT:**
 
-O LAS SchoolBusTrack é um sistema de rastreamento modular e escalavel para veiculos escolares, desenvolvido com foco em protecao infantile, privacidade de dados (conformidade com GDPR) e flexibilidade operacional. Permite rastreamento em tempo real via QR codes publicos, suporte a multiplos veiculos e rotas, e integracoes com plataformas ja usadas pela escola. 
+O LAS SchoolBusTrack é um sistema de rastreamento modular e escalavel para veiculos escolares, desenvolvido com foco em protecao infantil, privacidade de dados (conformidade com GDPR) e flexibilidade operacional. Permite rastreamento em tempo real via QR codes publicos, suporte a multiplos veiculos e rotas, e integracoes com plataformas ja usadas pela escola. 
 
 ---
 
